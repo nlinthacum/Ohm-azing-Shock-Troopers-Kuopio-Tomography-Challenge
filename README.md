@@ -16,6 +16,14 @@ To run the code:
 main(inputFolder, outputFolder, categoryNbr);
 ```
 
+Example Function Call:
+```MATLAB
+inputFolder = 'InputData';
+outputFolder = 'OutputData';
+categoryNbr = 1;
+
+main(inputFolder, outputFolder, categoryNbr);
+```
 ## Example Reconstructions
 ![ReadmeMorePictures](https://github.com/nlinthacum/Ohm-azing-Shock-Troopers-Kuopio-Tomography-Challenge/assets/73039714/fb27d99d-3663-464c-aa07-321162aeb7ad)
 
