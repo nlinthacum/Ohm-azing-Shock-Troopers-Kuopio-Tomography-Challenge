@@ -14,7 +14,9 @@ To run the code:
 
 ```MATLAB
 main(inputFolder, outputFolder, categoryNbr);
+```
 
 ## Example Reconstructions
-![ReadMeExamples](https://github.com/nlinthacum/Ohm-azing-Shock-Troopers-Kuopio-Tomography-Challenge/assets/73039714/430530d0-6cd3-4fcb-9599-4b8cde7b9f2c)
+![ReadMeExamples](https://github.com/nlinthacum/Ohm-azing-Shock-Troopers-Kuopio-Tomography-Challenge/assets/73039714/657f967b-efd8-48dd-b5af-699eb8c5d804)
+
 
