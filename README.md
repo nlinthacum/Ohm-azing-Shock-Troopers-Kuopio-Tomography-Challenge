@@ -17,7 +17,8 @@ main(inputFolder, outputFolder, categoryNbr);
 ```
 
 ## Example Reconstructions
-![ReadMeExamples](https://github.com/nlinthacum/Ohm-azing-Shock-Troopers-Kuopio-Tomography-Challenge/assets/73039714/e9081045-f378-4a84-a0f1-023330b96b06)
+![ReadmeMorePictures](https://github.com/nlinthacum/Ohm-azing-Shock-Troopers-Kuopio-Tomography-Challenge/assets/73039714/fb27d99d-3663-464c-aa07-321162aeb7ad)
+
 
 
 
