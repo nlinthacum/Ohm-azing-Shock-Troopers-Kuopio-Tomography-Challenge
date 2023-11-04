@@ -10,7 +10,7 @@
 This repository is a submission to the 2023 Kuopio Tomography Challenge. We utilize the Dbar algorithm to compute the conductivity reconstruction and apply Otsu's method for thresholding.
 
 ## Usage Instructions
-To use our method, follow these instructions:
+To run the code:
 
 ```MATLAB
 main(inputFolder, outputFolder, categoryNbr);
