@@ -16,4 +16,5 @@ To run the code:
 main(inputFolder, outputFolder, categoryNbr);
 
 ## Example Reconstructions
-![ReadMeExamples](https://github.com/nlinthacum/Ohm-azing-Shock-Troopers-Kuopio-Tomography-Challenge/assets/73039714/b3e36bcd-2e5e-4e39-b546-280bdec115a6)
+![ReadMeExamples](https://github.com/nlinthacum/Ohm-azing-Shock-Troopers-Kuopio-Tomography-Challenge/assets/73039714/430530d0-6cd3-4fcb-9599-4b8cde7b9f2c)
+
