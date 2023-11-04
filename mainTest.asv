@@ -1,0 +1,7 @@
+
+categoryNbr = 4;
+
+inputFolder = 'InputData6/';
+outputFolder = 'OutputFolder6/';
+
+main(inputFolder, outputFolder, categoryNbr);
