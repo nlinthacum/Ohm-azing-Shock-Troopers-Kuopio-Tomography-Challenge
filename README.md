@@ -15,3 +15,5 @@ To run the code:
 ```MATLAB
 main(inputFolder, outputFolder, categoryNbr);
 
+## Example Reconstructions
+![ReadMeExamples](https://github.com/nlinthacum/Ohm-azing-Shock-Troopers-Kuopio-Tomography-Challenge/assets/73039714/b3e36bcd-2e5e-4e39-b546-280bdec115a6)
